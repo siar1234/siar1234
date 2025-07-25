@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siar (Seung Yong) 🇰🇷 
+# 👋 Hi, I'm Siar (Seung Yong)
 
 ## 🎨 Creations
 
