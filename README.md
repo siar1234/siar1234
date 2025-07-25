@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Siar (Seung Yong) 🇰🇷 
 
-<!--
-**siar1234/siar1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎨 Creations
 
-Here are some ideas to get you started:
+- [Amphi Notes](https://github.com/amphi2024/notes)
+- [Amphi Music](https://github.com/amphi2024/music)
+- [Self-hosted Server for My Apps (Amphi Notes, Amphi Music)](https://github.com/amphi2024/server)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Languages:** Dart, Kotlin, JavaScript, TypeScript, Java, C#, C, C++, Swift
+- **Backend:** Express.js, Vert.x (Kotlin), ASP.NET Core
+- **Frontend:** React.js
+- **Mobile/Desktop App:** Flutter
+- **Database:** SQLite, MySQL
+- **Design:** Figma
+
+## 📫 Contact
+
+📧 siar019283@gmail.com
