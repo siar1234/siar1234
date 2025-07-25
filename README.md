@@ -4,7 +4,7 @@
 
 - [Amphi Notes](https://github.com/amphi2024/notes)
 - [Amphi Music](https://github.com/amphi2024/music)
-- [Self-hosted Server for My Apps (Amphi Notes, Amphi Music)](https://github.com/amphi2024/server)
+- [Self-hosted Server for Amphi Notes & Amphi Music](https://github.com/amphi2024/server)
 
 ## 🛠 Tech Stack
 
